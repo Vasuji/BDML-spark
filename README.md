@@ -25,7 +25,7 @@
 
 
 #### Installation Links
- - ununtu: http://blog.prabeeshk.com/blog/2014/10/31/install-apache-spark-on-ubuntu-14-dot-04/
+ - ubuntu: http://blog.prabeeshk.com/blog/2014/10/31/install-apache-spark-on-ubuntu-14-dot-04/
  - http://www.tutorialspoint.com/apache_spark/apache_spark_installation.htm
  - mac: http://genomegeek.blogspot.com/2014/11/how-to-install-apache-spark-on-mac-os-x.html
  - https://www.youtube.com/watch?v=eQ0nPdfVfc0
