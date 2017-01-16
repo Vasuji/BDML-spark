@@ -9,13 +9,16 @@
    https://databricks.com/
 
 ## Lecture sites:
+
 ### EDX-Spark series
 1. EDX: https://www.edx.org/course/introduction-apache-spark-uc-berkeleyx-cs105x
 2. https://www.edx.org/xseries/data-science-engineering-apacher-sparktm
 3. https://www.edx.org/course/big-data-analysis-apache-spark-uc-berkeleyx-cs110x
 4. https://www.edx.org/course/distributed-machine-learning-apache-uc-berkeleyx-cs120x
+
 ### Coursera Scala and Spark
 1. https://www.coursera.org/specializations/scala
+
 ### Udemy
 1. https://www.udemy.com/taming-big-data-with-apache-spark-hands-on/
 
