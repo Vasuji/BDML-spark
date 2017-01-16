@@ -29,4 +29,4 @@
 
 #### Tutorials Links
  - https://spark.apache.org/docs/1.3.0/sql-programming-guide.html
- - 
+
