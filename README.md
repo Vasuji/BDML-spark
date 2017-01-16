@@ -1,6 +1,5 @@
 # spark-info
 
-### info-Spark(java,scala,python,R,git)
 ![alt tag](http://spark.apache.org/images/spark-logo-trademark.png)
 
 ### Documentation:
